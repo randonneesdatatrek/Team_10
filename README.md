@@ -12,7 +12,7 @@ Or, ces enregistrements contiennent souvent des bruits indésirables (ex : voitu
 Les données de mon projet proviennent majoritairement du répertoire [Xeno-canto](https://www.xeno-canto.org/), un projet de science citoyenne regroupant des milliers d’enregistrements de chants d’oiseaux obtenus par des bénévoles de partout à travers le monde. Xeno-canto me semble être le jeu de données le plus pertinent pour mon projet puisqu’il est l’une des plus grandes collections de chants d’oiseaux dans le monde, en plus d’avoir été la source de données de plusieurs concours de reconnaissance automatisée de chants d’oiseaux. Le jeu de données est disponible sur [Kaggle](https://www.kaggle.com/rohanrao/xeno-canto-bird-recordings-extended-a-m)
 
 
-:bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck: :owl: :peacock: :penguin: :eagle:
+:bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck:
 
 
 ## Automated birdsong recognition
