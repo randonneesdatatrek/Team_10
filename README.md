@@ -1,4 +1,4 @@
-## Reconnaissance automatisée de chants d’oiseaux <img align = "right" src="https://cdn.dribbble.com/users/3818458/screenshots/12475968/media/9f5d0f10a6f4dbbb2d19b5b3a9819fe8.png" width="266" height="200">
+## Reconnaissance automatisée de chants d’oiseaux <img align = "right" src="https://cdn.dribbble.com/users/3818458/screenshots/12475968/media/9f5d0f10a6f4dbbb2d19b5b3a9819fe8.png" width="240" height="180">
 
 
 Dans le cadre du défi des [100 jours de Ran.données](http://test.ivado.ca/evenements/100-jours-de-ran-donnees-2/) organisé par l’[AÉBINUM](http://www.aebinum.umontreal.ca/) et [IVADO](https://ivado.ca/), je désire m'initier à l’apprentissage machine et à l’intelligence artificielle. Compte tenu de mon parcours académique en écologie, mon projet consistera à effectuer de la reconnaissance automatisée de chants d’oiseaux. Vous trouverez ci-bas une brève description de mon projet.
