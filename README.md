@@ -11,6 +11,10 @@ Or, ces enregistrements contiennent souvent des bruits indésirables (ex : voitu
 
 Les données de mon projet proviennent majoritairement du répertoire [Xeno-canto](https://www.xeno-canto.org/), un projet de science citoyenne regroupant des milliers d’enregistrements de chants d’oiseaux obtenus par des bénévoles de partout à travers le monde. Xeno-canto me semble être le jeu de données le plus pertinent pour mon projet puisqu’il est l’une des plus grandes collections de chants d’oiseaux dans le monde, en plus d’avoir été la source de données de plusieurs concours de reconnaissance automatisée de chants d’oiseaux. Le jeu de données est disponible sur [Kaggle](https://www.kaggle.com/rohanrao/xeno-canto-bird-recordings-extended-a-m)
 
+
+:bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck: :owl: :peacock: :penguin: :eagle: :swan: :flamingo: :parrot: :bird: :dove: :duck: :owl: :peacock: :penguin: :eagle:
+
+
 ## Automated birdsong recognition
 
 As part of the [100 days of Data.trek challenge](https://ivado.ca/en/events/the-100-days-of-data-trek-challenge/) organized by [AÉBINUM](http://www.aebinum.umontreal.ca/index_EN.html) and [IVADO](https://ivado.ca/en/), I would like to explore machine learning and artificial intelligence. Considering my academic background in ecology, my project will consist in automated birdsong recognition. You will find a brief description of my project below.
